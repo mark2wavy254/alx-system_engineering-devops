@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ls -la > lws_cd_content
+
+echo "Content has been copied succssfully"
